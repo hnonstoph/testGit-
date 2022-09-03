@@ -7,10 +7,9 @@
 
 import Foundation
 
-final class User {
+class User {
     var uuid: Int
     var name: String
-
     init(uuid: Int, name: String) {
         self.uuid = uuid
         self.name = name

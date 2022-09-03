@@ -11,8 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("This is the second commit")
-        print("This is the third commit")
+        print("This is the forth commit")
+        print("Checking stash in fourth commit")
     }
 }
 
