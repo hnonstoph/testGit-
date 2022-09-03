@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("This is the second commit")
+        print("This is the third commit")
     }
 }
 
